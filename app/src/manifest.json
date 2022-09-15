@@ -1,0 +1,16 @@
+{
+    "name": "Dealer App",
+    "short_name": "Dealer App",
+    "start_url": "",
+    "scope": "./",
+    "icons": [
+      {
+        "src": "lib/assets/icon.png",
+        "sizes": "180x180",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#006eff",
+    "background_color": "#fff",
+    "display": "standalone"
+  }
